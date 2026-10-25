@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.LastTap" parent="android:Theme.Material.NoActionBar" />
+</resources>

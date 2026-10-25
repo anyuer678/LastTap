@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">点时</string>
+    <string name="widget_single_label">点时 · 单活动</string>
+    <string name="widget_all_label">点时 · 全部活动</string>
+    <string name="widget_single_desc">一个活动一张卡片，点击整卡即记录当前时间</string>
+    <string name="widget_all_desc">所有活动排成紧凑列表，点击对应行即记录当前时间</string>
+</resources>
